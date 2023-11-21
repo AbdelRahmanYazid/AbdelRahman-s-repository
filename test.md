@@ -19,4 +19,24 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 -Text
 
 -Document
+___
+# Python 
+## This is an example for some Python Codes:
+	
+	print('Hello, world!')
+
+
+	
+**the output will be = Hello, world!**
+___
+| int | x |
+|---|---|
+| string| "Ahmad"|
+| Boolean| True|
+| Boolean| True|
+
+- [X] Task Clear
+- [ ] Task Unclear
+>_**AbdelRahman yazid**_
+>_**202020103**_
 
